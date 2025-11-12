@@ -1,8 +1,10 @@
 Global Health & Life Expectancy Analysis (WHO Data)
 
 Description:
+
 Exploratory Data Analysis (EDA) on World Health Organization (WHO) life expectancy data covering 180+ countries from 2000 to 2015.
 This project examines how socioeconomic and health factors, including GDP, education, healthcare spending, and disease rates, influence global life expectancy.
+
 
 Key Highlights:
 
@@ -18,11 +20,14 @@ Built a simple linear regression to predict life expectancy
 
 Derived actionable insights and policy recommendations for improving global health
 
+
 Tools & Libraries:
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Missingno, Scikit-Learn, Jupyter Notebook
 
+
 Dataset:
 Life Expectancy (WHO) — Kaggle
+
 
 Outputs:
 
