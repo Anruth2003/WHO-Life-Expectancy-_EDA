@@ -4,7 +4,7 @@ Title: Global Health & Life Expectancy Analysis (WHO Data)
 
 Description:
 Exploratory Data Analysis (EDA) on World Health Organization (WHO) life expectancy data covering 180+ countries from 2000 to 2015.
-This project uncovers how socioeconomic and health factors such as GDP, schooling, healthcare spending, and disease rates affect global life expectancy.
+This project examines how socioeconomic and health factors, including GDP, education, healthcare spending, and disease rates, influence global life expectancy.
 
 Key Highlights:
 
@@ -35,3 +35,5 @@ Outputs:
 📊 who_health_summary.xlsx → Country-level summary report
 
 🧾 README.md → Project documentation
+
+"Analyzed WHO global health data to discover the key drivers of life expectancy across 180+ countries using Python and visualization libraries".
